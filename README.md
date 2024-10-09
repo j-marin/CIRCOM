@@ -1,2 +1,6 @@
-# CIRCOM
-Comprehensive toolkit integrating lifestyle and clinical questionnaires with gut microbiota profiling via rectal swabs: Application in intensive care cirrhotic patients. 
+**Comprehensive toolkit integrating lifestyle and clinical questionnaires with gut microbiota profiling via rectal swabs: Application in intensive care cirrhotic patients.**
+
+# Abstract
+In this study, we developed a comprehensive toolkit for investigating gut microbiota in fragile patients using rectal swabbing combined with straightforward lifestyle and clinical questionnaires. We applied this prospective approach to 49 well-phenotyped cirrhotic patients as a function of their compensation status (outpatients recruitment vs intensive care unit). Our results, consistent with the literature, showed that liver function impairment is associated with lower microbiota diversity. Additionally, we monitored aerobic microbiota in decompensated cirrhotic patients, observing the invasion of ESBL-producing Escherichia coli in the gut's aerobic microbiota prior to severe infection caused by these pathogens. We propose this pragmaticpragmatical methodology for larger cohort studies, aiming to enhance the monitoring of immunocompromised patients by using microbiota analysis as a predictive tool for the severity of associated pathologies and the identification of agents responsible for severe infections.
+
+We provide here the code (R langage) to compute the microbiota diversty, to perform the MCA analysis and statistical test associated and to analyse and plot the nutrition score validation analysis.
